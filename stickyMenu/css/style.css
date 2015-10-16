@@ -25,3 +25,7 @@ p {
     position: fixed;
     top: 0;
 }
+
+.active {
+    color: red;
+}
